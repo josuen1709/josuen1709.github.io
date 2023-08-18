@@ -2,77 +2,77 @@
     "productos": [
         {
             "Uso": "Cabello",
-            "imagen": "img/Cabello/Cera 1.jpeg",
+            "imagen": "img/Cabello/Cera1.jpeg",
             "nombre": "Cera"
         },
         {
             "Uso": "Cabello",
-            "imagen": "img/Cabello/Crema 1.jpeg",
+            "imagen": "img/Cabello/Crema1.jpeg",
             "nombre": "Crema"
         },
         {
             "Uso": "Cabello",
-            "imagen": "img/Cabello/Laca 1.jpeg",
+            "imagen": "img/Cabello/Laca1.jpeg",
             "nombre": "Laca"
         },
         {
             "Uso": "Cabello",
-            "imagen": "img/Cabello/Shampoo 1.jpeg",
+            "imagen": "img/Cabello/Shampoo1.jpeg",
             "nombre": "Shampoo"
         },
         {
             "Uso": "Cabello",
-            "imagen": "img/Cabello/Shampoo 2.jpeg",
+            "imagen": "img/Cabello/Shampoo2.jpeg",
             "nombre": "Shampoo"
         },
         {
             "Uso": "Cabello",
-            "imagen": "img/Cabello/Shampoo 3.jpeg",
+            "imagen": "img/Cabello/Shampoo3.jpeg",
             "nombre": "Shampoo"
         },
 	{
             "Uso": "Uñas",
-            "imagen": "img/esmaltes/esmalte 1.jpeg",
+            "imagen": "img/esmaltes/esmalte1.jpeg",
             "nombre": "Esmalte"
         },
 	{
             "Uso": "Uñas",
-            "imagen": "img/esmaltes/esmalte 2.jpeg",
+            "imagen": "img/esmaltes/esmalte2.jpeg",
             "nombre": "Esmalte"
         },
 	{
             "Uso": "Uñas",
-            "imagen": "img/esmaltes/esmalte 3.jpeg",
+            "imagen": "img/esmaltes/esmalte3.jpeg",
             "nombre": "Esmalte"
         },
 	{
             "Uso": "Uñas",
-            "imagen": "img/esmaltes/esmalte 4.jpeg",
+            "imagen": "img/esmaltes/esmalte4.jpeg",
             "nombre": "Esmalte"
         },
 	{
             "Uso": "Uñas",
-            "imagen": "img/esmaltes/esmalte 5.jpeg",
+            "imagen": "img/esmaltes/esmalte5.jpeg",
             "nombre": "Esmalte"
         },
 	{
             "Uso": "Uñas",
-            "imagen": "img/esmaltes/esmalte 6.jpeg",
+            "imagen": "img/esmaltes/esmalte6.jpeg",
             "nombre": "Esmalte"
         },
 	{
             "Uso": "Uñas",
-            "imagen": "img/esmaltes/esmalte 7.jpeg",
+            "imagen": "img/esmaltes/esmalte7.jpeg",
             "nombre": "Esmalte"
         },
 	{
             "Uso": "Uñas",
-            "imagen": "img/esmaltes/esmalte 8.jpeg",
+            "imagen": "img/esmaltes/esmalte8.jpeg",
             "nombre": "Esmalte"
         },
 	{
             "Uso": "Uñas",
-            "imagen": "img/esmaltes/esmalte 9.jpeg",
+            "imagen": "img/esmaltes/esmalte9.jpeg",
             "nombre": "Esmalte"
         }
    ]
