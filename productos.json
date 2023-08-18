@@ -1,0 +1,79 @@
+{
+    "productos": [
+        {
+            "Uso": "Cabello",
+            "imagen": "img/Cabello/Cera 1",
+            "nombre": "Cera"
+        },
+        {
+            "Uso": "Cabello",
+            "imagen": "img/Cabello/Crema 1",
+            "nombre": "Crema"
+        },
+        {
+            "Uso": "Cabello",
+            "imagen": "img/Cabello/Laca 1",
+            "nombre": "Laca"
+        },
+        {
+            "Uso": "Cabello",
+            "imagen": "img/Cabello/Shampoo 1",
+            "nombre": "Shampoo"
+        },
+        {
+            "Uso": "Cabello",
+            "imagen": "img/Cabello/Shampoo 2",
+            "nombre": "Shampoo"
+        },
+        {
+            "Uso": "Cabello",
+            "imagen": "img/Cabello/Shampoo 3",
+            "nombre": "Shampoo"
+        },
+	{
+            "Uso": "Uñas",
+            "imagen": "img/esmaltes/esmalte 1",
+            "nombre": "Esmalte"
+        },
+	{
+            "Uso": "Uñas",
+            "imagen": "img/esmaltes/esmalte 1",
+            "nombre": "Esmalte"
+        },
+	{
+            "Uso": "Uñas",
+            "imagen": "img/esmaltes/esmalte 1",
+            "nombre": "Esmalte"
+        },
+	{
+            "Uso": "Uñas",
+            "imagen": "img/esmaltes/esmalte 1",
+            "nombre": "Esmalte"
+        },
+	{
+            "Uso": "Uñas",
+            "imagen": "img/esmaltes/esmalte 1",
+            "nombre": "Esmalte"
+        },
+	{
+            "Uso": "Uñas",
+            "imagen": "img/esmaltes/esmalte 1",
+            "nombre": "Esmalte"
+        },
+	{
+            "Uso": "Uñas",
+            "imagen": "img/esmaltes/esmalte 1",
+            "nombre": "Esmalte"
+        },
+	{
+            "Uso": "Uñas",
+            "imagen": "img/esmaltes/esmalte 1",
+            "nombre": "Esmalte"
+        },
+	{
+            "Uso": "Uñas",
+            "imagen": "img/esmaltes/esmalte 1",
+            "nombre": "Esmalte"
+        }
+   ]
+}
