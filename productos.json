@@ -52,22 +52,22 @@
         },
 	{
             "Uso": "Uñas",
-            "imagen": "img/esmaltes/esmalte5.jpeg",
-            "nombre": "Esmalte"
-        },
-	{
-            "Uso": "Uñas",
-            "imagen": "img/esmaltes/esmalte6.jpeg",
-            "nombre": "Esmalte"
-        },
-	{
-            "Uso": "Uñas",
             "imagen": "img/esmaltes/esmalte7.jpeg",
             "nombre": "Esmalte"
         },
 	{
             "Uso": "Uñas",
             "imagen": "img/esmaltes/esmalte8.jpeg",
+            "nombre": "Esmalte"
+        },
+	{
+            "Uso": "Uñas",
+            "imagen": "img/esmaltes/esmalte5.jpeg",
+            "nombre": "Esmalte"
+        },
+	{
+            "Uso": "Uñas",
+            "imagen": "img/esmaltes/esmalte6.jpeg",
             "nombre": "Esmalte"
         },
 	{
