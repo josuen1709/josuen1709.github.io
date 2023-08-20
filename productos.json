@@ -3,77 +3,77 @@
         {
             "Uso": "Cabello",
             "imagen": "img/Cabello/Cera1.jpeg",
-            "nombre": "Cera"
+            "nombre": "Cera Hair WAX 5D"
         },
         {
             "Uso": "Cabello",
             "imagen": "img/Cabello/Crema1.jpeg",
-            "nombre": "Crema"
+            "nombre": "Crema JCV Thermal Protection"
         },
         {
             "Uso": "Cabello",
             "imagen": "img/Cabello/Laca1.jpeg",
-            "nombre": "Laca"
+            "nombre": "Laca Keyra"
         },
         {
             "Uso": "Cabello",
             "imagen": "img/Cabello/Shampoo1.jpeg",
-            "nombre": "Shampoo"
+            "nombre": "Shampoo Nutritivo Yellow"
         },
         {
             "Uso": "Cabello",
             "imagen": "img/Cabello/Shampoo2.jpeg",
-            "nombre": "Shampoo"
+            "nombre": "Shampoo y Acondicionador JCV"
         },
         {
             "Uso": "Cabello",
             "imagen": "img/Cabello/Shampoo3.jpeg",
-            "nombre": "Shampoo"
+            "nombre": "Restaurador Capilar JCV"
         },
 	{
             "Uso": "Uñas",
             "imagen": "img/esmaltes/esmalte1.jpeg",
-            "nombre": "Esmalte"
+            "nombre": "Esmalte ONE SHOT"
         },
 	{
             "Uso": "Uñas",
             "imagen": "img/esmaltes/esmalte2.jpeg",
-            "nombre": "Esmalte"
+            "nombre": "Esmalte Black Nails"
         },
 	{
             "Uso": "Uñas",
             "imagen": "img/esmaltes/esmalte3.jpeg",
-            "nombre": "Esmalte"
+            "nombre": "Esmalte Mix Coco"
         },
 	{
             "Uso": "Uñas",
             "imagen": "img/esmaltes/esmalte7.jpeg",
-            "nombre": "Esmalte"
+            "nombre": "Esmalte Mix Coco"
         },
 	{
             "Uso": "Uñas",
             "imagen": "img/esmaltes/esmalte6.jpeg",
-            "nombre": "Esmalte"
+            "nombre": "Esmalte Mix Coco"
         },
 	{
             "Uso": "Uñas",
             "imagen": "img/esmaltes/esmalte8.jpeg",
-            "nombre": "Esmalte"
+            "nombre": "Esmalte Mix Coco"
         },
 	{
             "Uso": "Uñas",
             "imagen": "img/esmaltes/esmalte5.jpeg",
-            "nombre": "Esmalte"
+            "nombre": "Esmalte Victoria"
         },
 	{
             "Uso": "Uñas",
             "imagen": "img/esmaltes/esmalte9.jpeg",
-            "nombre": "Esmalte"
+            "nombre": "Esmalte Cuccio Pro"
         },
 	{
             "Uso": "Uñas",
             "imagen": "img/esmaltes/esmalte4.jpeg",
-            "nombre": "Esmalte"
+            "nombre": "Esmalte Mix Coco"
         }
    ]
 }
