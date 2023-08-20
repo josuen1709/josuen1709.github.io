@@ -23,18 +23,6 @@
         {
             "trabajo": "Peinados",
             "imagen": "img/trabajos/peinado6.jpeg"
-        },
-		{
-            "trabajo": "Manicura",
-            "imagen": "img/trabajos/uñas1.jpeg"
-        },
-		{
-            "trabajo": "Manicura",
-            "imagen": "img/trabajos/uñas2.jpeg"
-        },
-		{
-            "trabajo": "Manicura",
-            "imagen": "img/trabajos/uñas3.jpeg"
         }
    ]
 }
