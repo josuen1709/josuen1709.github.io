@@ -1,0 +1,40 @@
+{
+    "servicios": [
+        {
+            "trabajo": "Peinados",
+            "imagen": "img/trabajos/peinado1.jpeg"
+        },
+        {
+            "trabajo": "Peinados",
+            "imagen": "img/trabajos/peinado2.jpeg"
+        },
+        {
+            "trabajo": "Peinados",
+            "imagen": "img/trabajos/peinado3.jpeg"
+        },
+        {
+            "trabajo": "Peinados",
+            "imagen": "img/trabajos/peinado4.jpeg"
+        },
+        {
+            "trabajo": "Peinados",
+            "imagen": "img/trabajos/peinado5.jpeg"
+        },
+        {
+            "trabajo": "Peinados",
+            "imagen": "img/trabajos/peinado6.jpeg"
+        },
+		{
+            "trabajo": "Manicura",
+            "imagen": "img/trabajos/uñas1.jpeg"
+        },
+		{
+            "trabajo": "Manicura",
+            "imagen": "img/trabajos/uñas1.jpeg"
+        },
+		{
+            "trabajo": "Manicura",
+            "imagen": "img/trabajos/uñas1.jpeg"
+        }
+   ]
+}
